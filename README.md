@@ -22,7 +22,7 @@
 <!--- History --->
   - :school: I am a `student 1.5/5` at [Faculty Of Engineer](https://www.upds.edu.bo/facultad/ingenieria/) at [Universidad Privada Domingo Savio](https://www.upds.edu.bo/).
   - :computer: I am a competitive programmer at `Codeforces`, `Vjudge`, `Leetcode`.
-  - :books: I'm using language programming like `C++`, `Sql`, `Python`, `Go`, `Solidity`
+  - :books: I'm using programming language like `C++`, `Sql`, `Python`, `Go`, `Solidity`
   - :student: I’m currently learning `Backend Engineering`.
   <br>  
 </div>
