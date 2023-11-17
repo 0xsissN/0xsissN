@@ -14,14 +14,15 @@
        alt="snake" /></a>
 </div>
 
-<div style = "margin-top: 20px; margin-bottom: 20px;">
+<div>
+  <br>
 <!--- About image --->
-  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me<br><br>
 
 <!--- History --->
-  <br><br>
   - :school: I am a `student 1.5/5` at [Faculty Of Engineer](https://www.upds.edu.bo/facultad/ingenieria/) at [Universidad Privada Domingo Savio](https://www.upds.edu.bo/).
   - :computer: I am a competitive programmer at `Codeforces`, `Vjudge`, `Leetcode`.
+  - :books: I'm using language programming like `C++`, `Sql`, `Python`, `Go`, `Solidity`
   - :student: I’m currently learning `Backend Engineering`.
   <br>  
 </div>
