@@ -27,5 +27,12 @@
   <br>  
 </div>
 
+<div>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,mysql,py,go,solidity,linux" />
+    </a>
+  </p>
+</div>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
