@@ -29,24 +29,24 @@
 
 <div>
   <p align="center">
-    <z href="https://codeforces.com/profile/OracleShadow">
+    <a href="https://codeforces.com/profile/OracleShadow">
       <img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" width="50" height="50" />
-    </z>
-    <b href="https://vjudge.net/user/OracleShadow">
+    </a>
+    <a href="https://vjudge.net/user/OracleShadow">
       <img src="https://vjudge.net/static/bundle/11b24ab2156955d8f3fa.ico" width="50" height="50" />
-    </b>
-    <c href="https://leetcode.com/ShadowOracle/">
+    </a>
+    <a href="https://leetcode.com/ShadowOracle/">
       <img src="https://miro.medium.com/v2/resize:fit:1632/1*IC0JXUE3UEAfDfQnFyGtGA.jpeg" width="50" height="50" />
-    </c>
-    <d href="https://skillicons.dev">
+    </a>
+    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cpp" />
-    </d>
-    <e href="https://github.com/0xsissN/snake-game-python3">
+    </a>
+    <a href="https://github.com/0xsissN/snake-game-python3">
       <img src="https://skillicons.dev/icons?i=py" />
-    </e>
-    <f href="https://skillicons.dev">
+    </a>
+    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=mysql,go,solidity,linux" />
-    </f>
+    </a>
   </p>
 </div>
 <!--horizontal divider(gradiant)-->
