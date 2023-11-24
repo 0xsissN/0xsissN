@@ -29,8 +29,11 @@
 
 <div>
   <p align="center">
+    <a href="https://github.com/0xsissN/snake-game-python3">
+      <img src="https://skillicons.dev/icons?i=py"/>
+    </a>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,mysql,py,go,solidity,linux" />
+      <img src="https://skillicons.dev/icons?i=cpp,mysql,go,solidity,linux" />
     </a>
   </p>
 </div>
