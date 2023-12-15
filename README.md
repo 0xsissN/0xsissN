@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc" style="margin-top: 20px; margin-bottom: 20px;">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi ❄️, I'm 0xsissN</h1></summary>
+    <summary><h1 style="display: inline-block">0xsissN Repository</h1></summary>
   </ul>
 </div>
 
@@ -22,7 +22,7 @@
 <!--- History --->
   - :school: I am a `student 1.5/5yr` of the [Systems Engineer](https://www.upds.edu.bo/carrera/ingenieria-de-sistemas/) degree at [Universidad Privada Domingo Savio](https://www.upds.edu.bo/).
   - :computer: I am a competitive programmer at `Codeforces`, `Vjudge`, `Leetcode`.
-  - :books: I'm using programming language like `C++`, `Sql`, `Python`, `Go`, `Solidity`
+  - :books: I'm using programming language like `C++`, `Sql`, `Python`, `Go`.
   - :student: I’m currently learning `Backend Developer`.
   <br>  
 </div>
@@ -45,7 +45,7 @@
       <img src="https://skillicons.dev/icons?i=py" />
     </a>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,go,solidity,linux" />
+      <img src="https://skillicons.dev/icons?i=mysql,go" />
     </a>
   </p>
 </div>
