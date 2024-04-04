@@ -34,9 +34,7 @@
     <a href="https://github.com/0xsissN/snake-game-python3">
       <img src="https://skillicons.dev/icons?i=py" />
     </a>
-    <a href="">
-        <img src="https://skillicons.dev/icons?i=git,cpp,linux" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=git,cpp,linux" />
 </div>
 
 <div>
