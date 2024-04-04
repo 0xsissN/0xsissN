@@ -35,7 +35,7 @@
       <img src="https://skillicons.dev/icons?i=py" />
     </a>
     <a href="">
-        <img src="https://skillicons.dev/icons?i=git,cpp" />
+        <img src="https://skillicons.dev/icons?i=git,cpp,linux" />
     </a>
 </div>
 
