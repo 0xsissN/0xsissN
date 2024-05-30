@@ -19,6 +19,9 @@
 
 <div>
     <h3>Skills</h3>
+    <a href="https://github.com/0xsissN/calculator-app-kotlin">
+      <img src="https://skillicons.dev/icons?i=kotlin" />
+    </a>
     <a href="https://github.com/0xsissN/shadow-store-go">
       <img src="https://skillicons.dev/icons?i=go" />
     </a>
