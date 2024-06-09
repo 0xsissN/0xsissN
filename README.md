@@ -18,7 +18,7 @@
 </div>
 
 <div>
-    <h3>Skills</h3>
+    <h3>Languages</h3>
     <a href="https://github.com/0xsissN/calculator-app-kotlin">
       <img src="https://skillicons.dev/icons?i=kotlin" />
     </a>
@@ -37,7 +37,12 @@
     <a href="https://github.com/0xsissN/snake-game-python3">
       <img src="https://skillicons.dev/icons?i=py" />
     </a>
-    <img src="https://skillicons.dev/icons?i=git,cpp,linux" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
+</div>
+
+<div>
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=git,linux">
 </div>
 
 <div>
