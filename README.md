@@ -13,7 +13,7 @@
   <ul>
     <li><p>:school: I'm a <strong>student 1.9/5yr</strong> of the <strong>Systems Engineer</strong> degree at <a href="https://www.upds.edu.bo/">Universidad Privada Domingo Savio</a></p></li>
     <li><p>:computer: I'm a competitive programmer at <strong>ICPC, Codeforces, AtCoder</strong>.</p></li>
-    <li><p>:books: I’m currently learning <strong>Android Developer</strong>.</p></li>
+    <li><p>:books: I’m currently learning <strong>Blockchain Developer</strong>.</p></li>
   </ul>
 </div>
 
