@@ -25,7 +25,6 @@
     <a href="https://github.com/0xsissN/environmental-education-angular">
         <img src="https://skillicons.dev/icons?i=ts" />
     </a>
-    <img src="https://skillicons.dev/icons?i=solidity" />
     <a href="https://github.com/0xsissN/environmental-education-angular">
         <img src="https://skillicons.dev/icons?i=angular" />
     </a>
