@@ -17,19 +17,35 @@
   </ul>
 </div>
 
-<div>
-    <h3>Languages</h3>
-    <a href="https://github.com/0xsissN/calculator-app-kotlin">
-      <img src="https://skillicons.dev/icons?i=kotlin" />
-    </a>
+<div> 
+    <h3>Stack</h3>
     <a href="https://github.com/0xsissN/shadow-store-go">
       <img src="https://skillicons.dev/icons?i=go" />
+    </a>
+    <a href="https://github.com/0xsissN/environmental-education-angular">
+        <img src="https://skillicons.dev/icons?i=ts" />
+    </a>
+    <img src="https://skillicons.dev/icons?i=solidity" />
+    <a href="https://github.com/0xsissN/environmental-education-angular">
+        <img src="https://skillicons.dev/icons?i=angular" />
     </a>
     <a href="https://github.com/0xsissN/shadow-store-go">
         <img src="https://skillicons.dev/icons?i=html" />
     </a>
     <a href="https://github.com/0xsissN/shadow-store-go">
         <img src="https://skillicons.dev/icons?i=css" />
+    </a>
+</div>
+
+<div>
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=git,linux">
+</div>
+
+<div>
+    <h3>Languages</h3>
+    <a href="https://github.com/0xsissN/calculator-app-kotlin">
+      <img src="https://skillicons.dev/icons?i=kotlin" />
     </a>
     <a href="https://github.com/0xsissN/shadow-store-go">
         <img src="https://skillicons.dev/icons?i=mysql" />
@@ -38,11 +54,6 @@
       <img src="https://skillicons.dev/icons?i=py" />
     </a>
     <img src="https://skillicons.dev/icons?i=cpp" />
-</div>
-
-<div>
-    <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git,linux">
 </div>
 
 <div>
