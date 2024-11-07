@@ -11,7 +11,7 @@
   <h3><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About me</h3>
 <!--- History --->
   <ul>
-    <li><p>:school: I'm a <strong>student 1.9/5yr</strong> of the <strong>Systems Engineer</strong> degree at <a href="https://www.upds.edu.bo/">Universidad Privada Domingo Savio</a></p></li>
+    <li><p>:school: I'm a <strong>student 2.1/5yr</strong> of the <strong>Systems Engineer</strong> degree at <a href="https://www.upds.edu.bo/">Universidad Privada Domingo Savio</a></p></li>
     <li><p>:computer: I'm a competitive programmer at <strong>ICPC, Codeforces, AtCoder</strong>.</p></li>
     <li><p>:books: I’m currently learning <strong>Web3 Development</strong>.</p></li>
   </ul>
@@ -21,6 +21,9 @@
     <h3>Stack</h3>
     <a href="https://github.com/0xsissN/shadow-store-go">
       <img src="https://skillicons.dev/icons?i=go" />
+    </a>
+    <a href="https://github.com/0xsissN/graph-viewer-javascript">
+        <img src="https://skillicons.dev/icons?i=js" />
     </a>
     <a href="https://github.com/0xsissN/environmental-education-angular">
         <img src="https://skillicons.dev/icons?i=ts" />
