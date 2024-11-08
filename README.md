@@ -19,14 +19,14 @@
 
 <div> 
     <h3>Stack</h3>
-    <a href="https://github.com/0xsissN/shadow-store-go">
-      <img src="https://skillicons.dev/icons?i=go" />
-    </a>
     <a href="https://github.com/0xsissN/graph-viewer-javascript">
         <img src="https://skillicons.dev/icons?i=js" />
     </a>
     <a href="https://github.com/0xsissN/environmental-education-angular">
         <img src="https://skillicons.dev/icons?i=ts" />
+    </a>
+    <a href="https://github.com/0xsissN/shadow-store-go">
+      <img src="https://skillicons.dev/icons?i=go" />
     </a>
     <a href="https://github.com/0xsissN/environmental-education-angular">
         <img src="https://skillicons.dev/icons?i=angular" />
@@ -37,6 +37,9 @@
     <a href="https://github.com/0xsissN/shadow-store-go">
         <img src="https://skillicons.dev/icons?i=css" />
     </a>
+    <a href="https://github.com/0xsissN/shadow-store-go">
+        <img src="https://skillicons.dev/icons?i=postgres" />
+    </a>
 </div>
 
 <div>
@@ -46,9 +49,6 @@
 
 <div>
     <h3>Languages</h3>
-    <a href="https://github.com/0xsissN/shadow-store-go">
-        <img src="https://skillicons.dev/icons?i=postgres" />
-    </a>
     <a href="https://github.com/0xsissN/snake-game-python3">
       <img src="https://skillicons.dev/icons?i=py" />
     </a>
