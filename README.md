@@ -25,9 +25,6 @@
     <a href="https://github.com/0xsissN/environmental-education-angular">
         <img src="https://skillicons.dev/icons?i=ts" />
     </a>
-    <a href="https://github.com/0xsissN/shadow-store-go">
-      <img src="https://skillicons.dev/icons?i=go" />
-    </a>
     <a href="https://github.com/0xsissN/environmental-education-angular">
         <img src="https://skillicons.dev/icons?i=angular" />
     </a>
@@ -52,7 +49,7 @@
     <a href="https://github.com/0xsissN/snake-game-python3">
       <img src="https://skillicons.dev/icons?i=py" />
     </a>
-    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=cpp,go" />
 </div>
 
 <div>
