@@ -22,18 +22,7 @@
     <a href="https://github.com/0xsissN/graph-viewer-javascript">
         <img src="https://skillicons.dev/icons?i=js" />
     </a>
-    <a href="https://github.com/0xsissN/environmental-education-angular">
-        <img src="https://skillicons.dev/icons?i=ts" />
-    </a>
-    <a href="https://github.com/0xsissN/environmental-education-angular">
-        <img src="https://skillicons.dev/icons?i=angular" />
-    </a>
-    <a href="https://github.com/0xsissN/shadow-store-go">
-        <img src="https://skillicons.dev/icons?i=html" />
-    </a>
-    <a href="https://github.com/0xsissN/shadow-store-go">
-        <img src="https://skillicons.dev/icons?i=css" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=ts,angular,html,css" />
     <a href="https://github.com/0xsissN/shadow-store-go">
         <img src="https://skillicons.dev/icons?i=postgres" />
     </a>
