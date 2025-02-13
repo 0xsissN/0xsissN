@@ -19,10 +19,7 @@
 
 <div> 
     <h3>Stack</h3>
-    <a href="https://github.com/0xsissN/graph-viewer-javascript">
-        <img src="https://skillicons.dev/icons?i=js" />
-    </a>
-    <img src="https://skillicons.dev/icons?i=ts,angular,html,css" />
+    <img src="https://skillicons.dev/icons?i=angular" />
     <a href="https://github.com/0xsissN/shadow-store-go">
         <img src="https://skillicons.dev/icons?i=postgres" />
     </a>
@@ -41,6 +38,9 @@
     <img src="https://skillicons.dev/icons?i=cpp" />
     <a href="https://github.com/0xsissN/shadow-store-go">
         <img src="https://skillicons.dev/icons?i=go"/>
+    </a>
+        <a href="https://github.com/0xsissN/graph-viewer-javascript">
+        <img src="https://skillicons.dev/icons?i=js" />
     </a>
 </div>
 
