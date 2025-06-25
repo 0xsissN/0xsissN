@@ -11,9 +11,8 @@
   <h3><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About me</h3>
 <!--- History --->
   <ul>
-    <li><p>:school: I'm a <strong>student 2.7/5yr</strong> of the <strong>Systems Engineer</strong> degree at <a href="https://www.upds.edu.bo/">Universidad Privada Domingo Savio</a></p></li>
+    <li><p>:school: I'm a <strong>software developer</strong> with a 1 year of experience</p></li>
     <li><p>:computer: I'm a competitive programmer at <strong>ICPC, Codeforces, AtCoder</strong>.</p></li>
-    <li><p>:books: I’m currently learning <strong>Angular</strong>.</p></li>
   </ul>
 </div>
 
@@ -22,6 +21,9 @@
     <img src="https://skillicons.dev/icons?i=angular" />
     <a href="https://github.com/0xsissN/shadow-store-go">
         <img src="https://skillicons.dev/icons?i=postgres" />
+    </a>
+    <a href="">
+        <img src="https://skillicons.dev/icons?i=dotnet" />
     </a>
 </div>
 
