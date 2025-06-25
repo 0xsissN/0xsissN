@@ -19,11 +19,8 @@
 <div> 
     <h3>Stack</h3>
     <img src="https://skillicons.dev/icons?i=angular" />
-    <a href="https://github.com/0xsissN/shadow-store-go">
-        <img src="https://skillicons.dev/icons?i=postgres" />
-    </a>
     <a href="https://github.com/0xsissN/ticket-windows-form">
-        <img src="https://skillicons.dev/icons?i=dotnet" />
+        <img src="https://skillicons.dev/icons?i=postgres,dotnet" />
     </a>
 </div>
 
@@ -38,10 +35,7 @@
       <img src="https://skillicons.dev/icons?i=py" />
     </a>
     <img src="https://skillicons.dev/icons?i=cpp" />
-    <a href="https://github.com/0xsissN/shadow-store-go">
-        <img src="https://skillicons.dev/icons?i=go"/>
-    </a>
-        <a href="https://github.com/0xsissN/graph-viewer-javascript">
+    <a href="https://github.com/0xsissN/graph-viewer-javascript">
         <img src="https://skillicons.dev/icons?i=js" />
     </a>
 </div>
