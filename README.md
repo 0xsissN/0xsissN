@@ -30,17 +30,6 @@
 </div>
 
 <div>
-    <h3>Languages</h3>
-    <a href="https://github.com/0xsissN/hospital-game-python">
-      <img src="https://skillicons.dev/icons?i=py" />
-    </a>
-    <img src="https://skillicons.dev/icons?i=cpp" />
-    <a href="https://github.com/0xsissN/graph-viewer-javascript">
-        <img src="https://skillicons.dev/icons?i=js" />
-    </a>
-</div>
-
-<div>
     <h3>Competitive platform</h3>
     <a href="https://codeforces.com/profile/OracleShadow">
       <img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" width="50" height="50" />
