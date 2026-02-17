@@ -3,7 +3,7 @@
 
 <!--0xsissN-->
 <div style="margin-top: 20px; margin-bottom: 20px;" align="center">
-    <h1 style="display: inline-block" align="center">0xsissN Repository</h1>
+    <h1 style="display: inline-block" align="center">Nicolas Sivila Repository</h1>
 </div>
 
 <div>
