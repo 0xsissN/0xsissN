@@ -18,7 +18,7 @@
 
 <div> 
     <h3>Stack</h3>
-    <img src="https://skillicons.dev/icons?i=angular" />
+    <img src="https://skillicons.dev/icons?i=angular,cpp,dotnet" />
     <a href="https://github.com/0xsissN/ticket-windows-form">
         <img src="https://skillicons.dev/icons?i=postgres" />
     </a>
