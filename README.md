@@ -1,43 +1,71 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# Hi, I'm Nicolas Sivila 👋
 
-<!--0xsissN-->
-<div style="margin-top: 20px; margin-bottom: 20px;" align="center">
-    <h1 style="display: inline-block" align="center">Nicolas Sivila Repository</h1>
-</div>
+### Backend-focused Full Stack Developer
 
-<div>
-<!--- About image --->
-  <h3><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About me</h3>
-<!--- History --->
-  <ul>
-    <li><p>:school: I'm a <strong>Systems Engineering Student</strong></p></li>
-    <li><p>:computer: I'm a competitive programmer at <strong>ICPC, Codeforces, AtCoder</strong>.</p></li>
-  </ul>
-</div>
+Backend-focused Full Stack Developer and Systems Engineering student with experience building web applications using **.NET**, **Angular**, and **SQL Server**. Passionate about designing scalable backend systems, developing RESTful APIs, and writing clean, maintainable code following software engineering best practices. I enjoy learning new technologies and leveraging AI-assisted development tools to improve productivity and code quality.
 
-<div> 
-    <h3>Stack</h3>
-    <img src="https://skillicons.dev/icons?i=angular,cpp,dotnet" />
-    <a href="https://github.com/0xsissN/ticket-windows-form">
-        <img src="https://skillicons.dev/icons?i=postgres" />
-    </a>
-</div>
+---
 
-<div>
-    <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git,linux">
-</div>
+## 🚀 About Me
 
-<div>
-    <h3>Competitive platform</h3>
-    <a href="https://codeforces.com/profile/OracleShadow">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" width="50" height="50" />
-    </a>
-    <a href="https://atcoder.jp/users/OracleShadow">
-      <img src="https://th.bing.com/th/id/OIP.7gcvnsKPFq10G-Rb-wqfVgAAAA?rs=1&pid=ImgDetMain" width="50" height="50" />
-    </a>
-</div>
+* 💻 Backend-focused Full Stack Developer
+* 🎓 Systems Engineering Student
+* ⚙️ Building web applications with **.NET**, **Angular**, and **SQL Server**
+* 🏆 Competitive Programmer (ICPC, Codeforces, AtCoder)
+* 📚 Interested in Software Architecture, Backend Development, and Problem Solving
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nestjs" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,astro" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux" />
+</p>
+
+---
+
+## ⚡ Core Skills
+
+* REST APIs
+* Clean Architecture
+* SOLID Principles
+* Database Design
+* Authentication & Authorization
+* SQL Query Optimization
+* Software Architecture
+* Docker
+* Linux
+
+---
+
+## 🏅 Competitive Programming
+
+<p>
+  <a href="https://codeforces.com/profile/OracleShadow">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" width="50" height="50" />
+  </a>
+  <a href="https://atcoder.jp/users/OracleShadow">
+    <img src="https://th.bing.com/th/id/OIP.7gcvnsKPFq10G-Rb-wqfVgAAAA?rs=1&pid=ImgDetMain" width="50" height="50" />
+  </a>
+</p>
